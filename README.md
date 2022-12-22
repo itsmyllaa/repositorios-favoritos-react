@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+Repositorios favoritos do Github
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1 - Pagina inicial sem repositorios 
 
-## Available Scripts
+![Repositórios favoritos vazio](https://user-images.githubusercontent.com/60410635/209194889-0a8c6aa2-001d-4563-99e2-96d5b55f8ec5.png)
 
-In the project directory, you can run:
+2 - Erro ao procurar repositorios
 
-### `npm start`
+![Erro ao pesquisar repositórios](https://user-images.githubusercontent.com/60410635/209199250-4e078266-c65d-47d8-9f0d-eec65dcf7a24.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3 - Página inicial com repositórios
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Repositorio favoritos cheio](https://user-images.githubusercontent.com/60410635/209199591-d482134a-7100-4e1b-8884-86d4d627e8ac.png)
 
-### `npm test`
+5 - Tela com mensagem de carregando ao pesquisar repositório 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Carregando ao abrir repositorio](https://user-images.githubusercontent.com/60410635/209200143-b725a2f7-583b-4413-a113-7b05dcb972ad.png)
 
-### `npm run build`
+5 - Repositório facebook/react
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Repositório React](https://user-images.githubusercontent.com/60410635/209199833-a2fa038d-286d-43c4-b224-6f72724c94e3.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5 - Navegacão back and next para página anterior e próxima
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Barra Back e Next React](https://user-images.githubusercontent.com/60410635/209200703-823895db-424c-4965-ab75-d7ffe22f39a8.png)
 
-### `npm run eject`
+6 - Repositório angular/angular
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Repositorio favoritos cheio](https://user-images.githubusercontent.com/60410635/209201145-e4e6e7cb-d927-4e19-b656-8db99d9378ba.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+7 - Repositório ruby/ruby
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Repositório Ruby](https://user-images.githubusercontent.com/60410635/209201466-df18e4aa-01bd-4b8e-95ea-6ebedc75ac37.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+8 - Repositório vuejs/vue
 
-## Learn More
+![Repositório Vuejs](https://user-images.githubusercontent.com/60410635/209201788-5ef29637-afa3-4369-9cc5-3b12de53a34b.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+9 - Repositório VUE/VUE
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Repositorio VUE](https://user-images.githubusercontent.com/60410635/209201898-ed9dfd04-4e4f-44f1-98c1-8a95251610b1.png)
 
-### Code Splitting
+10 - Observacões: + button back and next to back or next page
+11 - Observacões: + button all, open and closed to open profiles, closed profiles and all profiles like open and closed together.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+follow me on my professional instagram: @https.camila.br
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
