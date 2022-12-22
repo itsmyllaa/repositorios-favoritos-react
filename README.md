@@ -20,7 +20,7 @@ Repositorios favoritos do Github
 
 ![Repositório React](https://user-images.githubusercontent.com/60410635/209199833-a2fa038d-286d-43c4-b224-6f72724c94e3.png)
 
-5 - Navegacão back and next para página anterior e próxima
+5 - Navegacão back and next para página anterior e próxima página
 
 ![Barra Back e Next React](https://user-images.githubusercontent.com/60410635/209200703-823895db-424c-4965-ab75-d7ffe22f39a8.png)
 
